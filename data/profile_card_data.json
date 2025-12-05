@@ -5,7 +5,7 @@
             "github": "https://github.com/dinesh",
             "linkedin": "linkedin.com/in/itprodinesh88/",
             "photo": "images/profile_photos/dinesh.jpg",
-            "description": "Short bio or description about the person.",
+            "description": "",
             "portfolio_link": ""
         },
         {
@@ -13,7 +13,7 @@
             "github": "github.com/Fiarzen",
             "linkedin": "linkedin.com/in/jeremy-lam-b82b9b104/",
             "photo": "images/profile_photos/jeremy.jpg",
-            "description": "Short bio or description about the person.",
+            "description": "",
             "portfolio_link": ""
         },
         {
@@ -21,7 +21,7 @@
             "github": "https://github.com/louiseka",
             "linkedin": "https://www.linkedin.com/in/louiseka/",
             "photo": "images/profile_photos/louise.jpg",
-            "description": "Short bio or description about the person.",
+            "description": "",
             "portfolio_link": ""
         },
         {
@@ -29,7 +29,7 @@
             "github": "github.com/waker-btn",
             "linkedin": "linkedin.com/in/matthemstock",
             "photo": "images/profile_photos/matt_h.jpg",
-            "description": "Short bio or description about the person.",
+            "description": "",
             "portfolio_link": ""
         },
         {
@@ -37,7 +37,7 @@
             "github": "github.com/MattNightingale",
             "linkedin": "linkedin.com/in/matt-nightingale",
             "photo": "images/profile_photos/matt_n.jpg",
-            "description": "Short bio or description about the person.",
+            "description": "",
             "portfolio_link": ""
         },
         {
@@ -45,7 +45,7 @@
             "github": "https://github.com/NathanHor22",
             "linkedin": "https://www.linkedin.com/in/nathan-hor-99a27a205/",
             "photo": "images/profile_photos/nathan.png",
-            "description": "Short bio or description about the person.",
+            "description": "",
             "portfolio_link": ""
         },
         {
@@ -53,7 +53,7 @@
             "github": "https://github.com/Ravindgowda",
             "linkedin": "www.linkedin.com/in/ravind-gowda-03232bb6",
             "photo": "images/profile_photos/ravind.jpg",
-            "description": "Short bio or description about the person.",
+            "description": "",
             "portfolio_link": ""
         },
         {
@@ -61,7 +61,7 @@
             "github": "https://github.com/tgulu",
             "linkedin": "https://www.linkedin.com/in/thabo-gulu/",
             "photo": "images/profile_photos/thabo.jpg",
-            "description": "Short bio or description about the person.",
+            "description": "",
             "portfolio_link": ""
         },
         {
@@ -69,7 +69,7 @@
             "github": "github.com/timtim40a",
             "linkedin": "linkedin.com/in/tymur-soroka/",
             "photo": "images/profile_photos/tymur.jpg",
-            "description": "Short bio or description about the person.",
+            "description": "",
             "portfolio_link": ""
         },
         {
@@ -77,7 +77,7 @@
             "github": "github.com/Wahaj-Arsal",
             "linkedin": "linkedin.com/in/wahaj-arsal",
             "photo": "images/profile_photos/wahaj.jpg",
-            "description": "Short bio or description about the person.",
+            "description": "",
             "portfolio_link": ""
         },
         {
@@ -85,7 +85,7 @@
             "github": "https://github.com/YashMagane",
             "linkedin": "https://www.linkedin.com/in/yashmagane/",
             "photo": "images/profile_photos/yash.jpg",
-            "description": "Short bio or description about the person.",
+            "description": "",
             "portfolio_link": ""
         },
         {
@@ -93,7 +93,7 @@
             "github": "github.com/yodiyo",
             "linkedin": "linkedin.com/in/theyoricktouch",
             "photo": "images/profile_photos/yorick.jpg",
-            "description": "Short bio or description about the person.",
+            "description": "",
             "portfolio_link": ""
         }
     ]
