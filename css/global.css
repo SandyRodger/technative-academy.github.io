@@ -20,10 +20,15 @@
 }
 
 body {
-    margin: 0;
     font-family: var(--font-family-body);
     color: var(--color-black);
     background-color: var(--color-white);
+    max-width: 1400px;
+    margin: 1.5em auto;
+}
+
+main {
+    margin: 1.5em;
 }
 
 p,
@@ -32,4 +37,8 @@ h2,
 h3,
 h4 {
     margin: 0;
+}
+
+.logo {
+    max-width: 250px;
 }
