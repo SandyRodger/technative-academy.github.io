@@ -31,7 +31,7 @@
     flex-direction: column;
 }
 
-/* Bootcamp Card Structure */
+/* Bootcamp Card Structure (to be divided into separate modules?) */
 
 .card__hero {
     display: flex;
