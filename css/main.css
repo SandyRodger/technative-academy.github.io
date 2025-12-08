@@ -31,7 +31,7 @@
     flex-direction: column;
 }
 
-/* Bootcamp Card Structure */
+/* Bootcamp Card Structure (to be divided into separate modules?) */
 
 .card__hero {
     display: flex;
@@ -57,6 +57,8 @@
 }
 
 .bootcamp-card {
+    background-color: rgba(243, 250, 255, 0.67);
+    box-shadow: 0 4px 8px 0 rgba(217, 217, 217, 1);
     cursor: pointer;
 }
 
