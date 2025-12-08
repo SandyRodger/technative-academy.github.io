@@ -7,12 +7,13 @@ function slugify(text) {
 }
 
 async function buildAlumniList() {
-    const data = await fetch("/data/profile_card_data.json").then((res) =>
-        res.json()
-    );
-    const alumniData = data.tfsAlum122025;
     const alumniListContainer = document.querySelector("#alumni-list__cards");
     const cardTemplate = document.querySelector("#card");
+
+    const data = await fetch(alumniListContainer.dataset.jsonFile).then((res) =>
+        res.json()
+    );
+    const alumniData = data.data;
 
     alumniData.forEach((alumnus) => {
         const cardClone = cardTemplate.content.cloneNode(true);

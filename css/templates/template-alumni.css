@@ -1,0 +1,16 @@
+@import url("/css/main.css");
+
+/* Specific styles for the Bootcamp Alumni*/
+
+/* BEM-Inspired (we're breaking the rules here a little) */
+/* Custom card styles, add your own below! */
+/* Example structure:
+.card--your-name {
+    background-color: #yourcolor;
+    border: 2px solid #yourcolor;
+}
+
+.card--your-name .card__name {
+    color: #yourcolor;
+}
+*/
