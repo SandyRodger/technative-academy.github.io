@@ -1,0 +1,30 @@
+@import url("/css/main.css");
+
+/* Specific styles for the December 2025 Software Development Tech Finishing School page */
+
+/* BEM-Inspired (we're breaking the rules here) */
+/* Custom card styles, add your own below! */
+/* Example structure:
+.card--your-name {
+    background-color: #yourcolor;
+    border: 2px solid #yourcolor;
+}
+
+.card--your-name .card__name {
+    color: #yourcolor;
+}
+*/
+
+.card--matt-h {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border: 2px solid #764ba2;
+}
+
+.card--matt-h .card__name,
+.card--matt-h .card__role {
+    color: #ffffff;
+}
+
+.card--matt-h .card__description {
+    color: #f0f0f0;
+}
