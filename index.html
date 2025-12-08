@@ -9,8 +9,12 @@
         <link rel="stylesheet" href="./css/global.css" />
     </head>
     <body>
-        <header>
-            <img src="" alt="Technative Logo" />
+        <header class="header">
+            <img
+                class="logo"
+                src="./assets/TechNativelogo.png"
+                alt="Technative Logo"
+            />
             <nav></nav>
             <h1>Meet the Alumni of TechNative Digital</h1>
             <p>
@@ -21,7 +25,7 @@
         </header>
         <main>
             <section class="bootcamps">
-                <article class="bootcamps__card">
+                <!-- <article class="bootcamps__card">
                     <h2>
                         <a
                             href="./pages/dec25softdevtfs.html"
@@ -43,9 +47,53 @@
                         </a>
                     </h2>
                     <p>Some info?</p>
-                </article>
+                </article> -->
+                <div class="bootcamp-list__cards grid">
+                    <article
+                        class="card bootcamp-card"
+                        data-url="dec25softdevtfs"
+                    >
+                        <div class="card__hero">
+                            <img
+                                src="./assets/image.png"
+                                alt="Bootcamp Photo"
+                                class="card__hero-image"
+                            />
+                        </div>
+                        <div class="card__body">
+                            <h3 class="card__name">
+                                Software Development - Tech Finishing School -
+                                Dec 2025
+                            </h3>
+                            <p class="card__description">
+                                a description about..
+                            </p>
+                        </div>
+                    </article>
+                    <article
+                        class="card bootcamp-card"
+                        data-url="dec25softdevfoundations"
+                    >
+                        <div class="card__hero">
+                            <img
+                                src="./assets/image.png"
+                                alt="Bootcamp Photo"
+                                class="card__hero-image"
+                            />
+                        </div>
+                        <div class="card__body">
+                            <h3 class="card__name">
+                                Software Development - Foundations - Dec 2025
+                            </h3>
+                            <p class="card__description">
+                                a description about..
+                            </p>
+                        </div>
+                    </article>
+                </div>
             </section>
         </main>
         <footer></footer>
     </body>
+    <script src="script.js"></script>
 </html>
