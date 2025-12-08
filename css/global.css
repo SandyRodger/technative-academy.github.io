@@ -24,11 +24,11 @@ body {
     color: var(--color-black);
     background-color: var(--color-white);
     max-width: 1400px;
-    margin: 1.5em auto;
+    margin: 1.5em;
 }
 
 main {
-    margin: 1.5em;
+    margin: 1.5em 0;
 }
 
 p,
@@ -37,8 +37,32 @@ h2,
 h3,
 h4 {
     margin: 0;
+    margin-bottom: 0.5em;
 }
 
 .logo {
     max-width: 250px;
+}
+
+.header__limiter {
+    border: none;
+    height: 4px;
+    background-color: var(--color-yellow);
+    margin: 1.5em 0;
+}
+
+@media (min-width: 886px) {
+    body,
+    main {
+        margin: 1.5em;
+    }
+}
+
+@media (min-width: 1450px) {
+    body {
+        margin: 1.5em auto;
+    }
+    main {
+        margin: 1.5em;
+    }
 }
