@@ -38,11 +38,11 @@
         },
         {
             "name": "Matt N",
-            "role": "",
+            "role": "Front-end Software Developer",
             "github": "https://github.com/MattNightingale",
             "linkedin": "https://linkedin.com/in/matt-nightingale",
             "photo": "/assets/profile_photos/matt_n.jpg",
-            "description": "",
+            "description": "Currently a front-end developer focussed on React, Redux,  TypeScript and JavaScript, but with a desire to learn much more! I have a naturally analytical mind with a passion for problem solving and building clean, beautiful UI.",
             "portfolio_link": ""
         },
         {
@@ -65,12 +65,12 @@
         },
         {
             "name": "Thabo",
-            "role": "",
+            "role": "Full-Stack Software Developer",
             "github": "https://github.com/tgulu",
             "linkedin": "https://www.linkedin.com/in/thabo-gulu/",
             "photo": "/assets/profile_photos/thabo.jpg",
-            "description": "",
-            "portfolio_link": ""
+            "description": "I’m a Full-Stack Developer specialising in React, TypeScript, JavaScript, Node.js and Tailwind. I combine strong coding skills with a focus on digital accessibility, creating websites and applications that are both user-friendly and mission-focused",
+            "portfolio_link": "https://websiteby.thabogulu.com/"
         },
         {
             "name": "Tymur",
