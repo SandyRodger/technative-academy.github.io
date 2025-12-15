@@ -13,6 +13,7 @@
     --color-link-primary: #3482c1;
     /* Borders */
     --border-radius-sm: 5px;
+    --border-radius-m: 8px;
     --border-radius-circle: 50%;
 }
 
@@ -40,7 +41,6 @@ h2,
 h3,
 h4 {
     margin: 0;
-    margin-bottom: 0.5em;
 }
 
 .logo {
