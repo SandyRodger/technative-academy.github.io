@@ -3,6 +3,8 @@
 /* Specific styles for the Bootcamp Alumni*/
 
 /* BEM-Inspired (we're breaking the rules here a little) */
+/* Card classes are generated using alumni names, lowercased and hyphens for spaces e.g Matt H -> .card--matt-h */
+
 /* Custom card styles, add your own below! */
 /* Example structure:
 .card--your-name {
