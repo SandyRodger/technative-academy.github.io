@@ -207,7 +207,7 @@
 
 /* ---- Media Queries ---- */
 
-/* 500px: One Column, Horizontal Card */
+/* 538px: One Column, Horizontal Card */
 @media (min-width: 538px) {
     .card__head {
         flex-direction: row;
@@ -234,7 +234,7 @@
     }
 }
 
-/* 1100px: Two Column, Horizontal Cards */
+/* 886px: Two Column, Horizontal Cards */
 @media (min-width: 886px) {
     .bootcamp-description {
         margin-bottom: 2.5rem;
@@ -269,7 +269,7 @@
     }
 }
 
-/* 1366px: Three Column, Horizontal Cards */
+/* 1450px: Three Column, Horizontal Cards */
 @media (min-width: 1450px) {
     .alumni-list {
         padding: 3rem;
