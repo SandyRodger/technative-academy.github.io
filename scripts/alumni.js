@@ -35,12 +35,12 @@ async function buildAlumniList() {
         cardClone.querySelector(".card__description").textContent =
             alumnus.description;
 
-        const skillsList = cardClone.querySelector(".card__tech");
+        const techList = cardClone.querySelector(".card__tech");
         alumnus.technologies.filter(Boolean).forEach((tech) => {
             const li = document.createElement("li");
             li.className = `card__tech--item tech--${nameSlug} `;
             li.textContent = tech;
-            skillsList.appendChild(li);
+            techList.appendChild(li);
         });
 
         alumniListContainer.appendChild(cardClone);
