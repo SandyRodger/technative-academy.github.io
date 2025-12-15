@@ -144,10 +144,12 @@
 }
 .card__link-icon {
     width: 40px;
+    fill: var(--color-black);
 }
 
 .card__icon {
     width: 20px;
+    fill: var(--color-black);
 }
 
 /* Connecting CTA Section */
