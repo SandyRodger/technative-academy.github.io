@@ -54,3 +54,16 @@ For updating colour of tech/skills
         box-shadow: 0 6px 20px rgba(100, 181, 246, 0.4);
     }
 }
+
+/* Yorick Card styling */
+.card--yorick {
+    background: linear-gradient(
+        180deg,
+        rgba(50, 193, 224, 1) 0%,
+        rgba(25, 191, 98, 1) 100%
+    );
+}
+
+.card--yorick .card__description {
+    font-style: italic;
+}
