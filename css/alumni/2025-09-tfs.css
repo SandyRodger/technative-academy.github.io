@@ -67,3 +67,24 @@ For updating colour of tech/skills
 .card--yorick .card__description {
     font-style: italic;
 }
+
+/* Matt Card styling */
+.card--matt-n {
+    background: linear-gradient(205deg, #4998e2 0%, #9cb9ce 100%);
+}
+
+.tech--matt-n {
+    background-color: #efc845;
+}
+
+.card__name,
+.card__role,
+.card__link,
+.card__description {
+    color: var(--color-white);
+}
+
+.card__link-icon,
+.card__icon {
+    fill: var(--color-white);
+}
