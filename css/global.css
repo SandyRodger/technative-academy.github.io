@@ -52,7 +52,7 @@ h4 {
     border: none;
     height: 4px;
     background-color: var(--color-yellow);
-    margin: 1.5em 1.2em;
+    margin: 1.5em 0;
 }
 
 @media (min-width: 886px) {
