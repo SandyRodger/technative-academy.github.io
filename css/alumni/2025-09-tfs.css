@@ -133,3 +133,20 @@ For updating colour of tech/skills
 .tech--jeremy {
     background-color: #1a1194;
 }
+
+/* Yash Card styling */
+.card--yash {
+    background: linear-gradient(135deg, #9b4ad0b6 0%, #de2828b5 100%);
+    color: var(--color-white);
+}
+
+.tech--yash {
+    background-color: #9b4ad0b6;
+    color: var(--color-black);
+}
+
+.tech--yash:hover {
+    background-color: #d56161b5;
+    box-shadow: none;
+    transform: translateY(-2px);
+}
