@@ -135,8 +135,15 @@
             "linkedin": "https://www.linkedin.com/in/yashmagane/",
             "photo": "/assets/2025-09-tfs/profile_photos/yash.jpg",
             "description": "I'm a software developer with a strong passion for backend engineering. I love building reliable APIs, working with databases, and designing scalable systems, always aiming for clean architecture and efficient solutions",
-            "portfolio_link": "",
-            "technologies": [""]
+            "portfolio_link": "https://yashmagane.github.io/Portfolio_Website/",
+            "technologies": [
+                "Node.js",
+                "Express",
+                "MySQL",
+                "Django",
+                "Java",
+                "JavaScript"
+            ]
         },
         {
             "name": "Yorick",
