@@ -150,3 +150,12 @@ For updating colour of tech/skills
     box-shadow: none;
     transform: translateY(-2px);
 }
+
+.card--wahaj-arsal {
+    background-color: #fdf0e9;
+}
+
+.tech--wahaj-arsal {
+    background-color: #ef6d58;
+    color: #ffffff;
+}

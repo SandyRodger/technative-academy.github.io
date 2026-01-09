@@ -119,14 +119,21 @@
             ]
         },
         {
-            "name": "Wahaj",
-            "role": "",
+            "name": "Wahaj Arsal",
+            "role": "Full Stack Web Developer",
             "github": "https://github.com/Wahaj-Arsal",
             "linkedin": "https://linkedin.com/in/wahaj-arsal",
             "photo": "/assets/2025-09-tfs/profile_photos/wahaj.jpg",
-            "description": "",
-            "portfolio_link": "",
-            "technologies": [""]
+            "description": "Full Stack Developer with 2 Years experience working in a startup environment, building and maintaining a live streaming platform. Proficient in React, JavaScript, Redux, Node.js, Express, and MySQL. Passionate about creating efficient and scalable web applications.",
+            "portfolio_link": "https://portfolio-wahaj-arsal.onrender.com/",
+            "technologies": [
+                "React",
+                "JavaScript",
+                "Redux",
+                "Node.js",
+                "Express",
+                "MySQL"
+            ]
         },
         {
             "name": "Yash",
