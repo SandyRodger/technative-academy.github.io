@@ -55,6 +55,22 @@ For updating colour of tech/skills
     }
 }
 
+/* Tymur Card styling */
+.card--tymur {
+    background: #ef7829;
+    /*background: var(--color-yellow);*/
+    /*background: linear-gradient(135deg, #f9d423 0%, #ff4e50 100%);*/
+    border-style: dashed;
+    border-width: 8px;
+    border-color: #222034;
+    color: #222034;
+}
+
+.tech--tymur {
+    background-color: #222034;
+    color: var(--color-white);
+}
+
 /* Yorick Card styling */
 .card--yorick {
     background: linear-gradient(
@@ -70,29 +86,82 @@ For updating colour of tech/skills
 
 /* Matt Card styling */
 .card--matt-n {
-    background: linear-gradient(205deg, #4998e2 0%, #9cb9ce 100%);
+    background: #2c4a80;
     box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.2);
+    border: 2px solid #f39c12;
+
+    .card__name,
+    .card__role,
+    .card__link,
+    .card__description {
+        color: var(--color-white);
+    }
+
+    .card__link-icon,
+    .card__icon {
+        fill: var(--color-white);
+    }
+
+    .card__link {
+        width: fit-content;
+        white-space: nowrap;
+    }
 }
 
 .tech--matt-n {
-    background-color: #efc845;
-    box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.2);
+    background-color: #f39c12;
+    box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.3);
 }
 
 .tech--matt-n:hover {
     background-color: #efc845;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    transform: translateY(-2px);
+}
+
+/* Jeremy card styling */
+.card--jeremy {
+    background: linear-gradient(135deg, #08ef1b, #303733);
+    color: rgb(255, 255, 255);
+    .card__link-icon,
+    .card__icon {
+        fill: var(--color-white);
+    }
+
+    .card__name,
+    .card__role,
+    .card__link,
+    .card__description {
+        color: var(--color-white);
+    }
+}
+
+.tech--jeremy {
+    background-color: #1a1194;
+}
+
+/* Yash Card styling */
+.card--yash {
+    background: linear-gradient(135deg, #9b4ad0b6 0%, #de2828b5 100%);
+    color: var(--color-white);
+}
+
+.tech--yash {
+    background-color: #9b4ad0b6;
+    color: var(--color-black);
+}
+
+.tech--yash:hover {
+    background-color: #d56161b5;
     box-shadow: none;
     transform: translateY(-2px);
 }
 
-.card__name,
-.card__role,
-.card__link,
-.card__description {
-    color: var(--color-white);
+.card--wahaj-arsal {
+    background-color: #fdf0e9;
 }
 
-.card__link-icon,
-.card__icon {
-    fill: var(--color-white);
+.tech--wahaj-arsal {
+    background-color: #ef6d58;
+    color: #ffffff;
 }
