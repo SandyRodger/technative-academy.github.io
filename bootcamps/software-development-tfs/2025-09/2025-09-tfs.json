@@ -62,7 +62,7 @@
             "linkedin": "https://linkedin.com/in/matt-nightingale",
             "photo": "/assets/2025-09-tfs/profile_photos/matt_n.jpg",
             "description": "Currently a front-end developer focussed on React, Redux,  TypeScript and JavaScript, but with a desire to learn much more! I have a naturally analytical mind with a passion for problem solving and building clean, beautiful UI.",
-            "portfolio_link": "",
+            "portfolio_link": "https://mattnightingale.vercel.app/",
             "technologies": ["React", "JavaScript", "Redux", "TypeScript"]
         },
         {
