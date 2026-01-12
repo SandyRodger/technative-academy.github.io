@@ -2,13 +2,13 @@
     "data": [
         {
             "name": "Dinesh",
-            "role": "",
-            "github": "https://github.com/dinesh",
+            "role": "Cyber Security Professional​ | Software Developer",
+            "github": "https://github.com/Dnesh88/",
             "linkedin": "https://linkedin.com/in/itprodinesh88/",
             "photo": "/assets/2025-09-tfs/profile_photos/dinesh.jpg",
-            "description": "",
+            "description": "Well rounded IT professional with experiences across Infrastructure, DevOps and specialist in Cyber Security domain, helping organisations design and build secure systems. Planned and implemented EDR, SIEM solutions to strengthen detection and response across organisations. Also proficient in full stack web development - frontend (HTML, CSS, JavaScript) and backend (Node.js, API, Database).",
             "portfolio_link": "",
-            "technologies": [""]
+            "technologies": ["JavaScript", "Node.js", "Express", "API"]
         },
         {
             "name": "Jeremy",
@@ -35,7 +35,13 @@
             "photo": "/assets/2025-09-tfs/profile_photos/louise.jpg",
             "description": "I’m a Frontend Engineer working with JavaScript, React, and TypeScript. I advocate for accessible, user-friendly design and clean, maintainable code for meaningful digital experiences.",
             "portfolio_link": "https://louise.codes/",
-            "technologies": ["TypeScript", "JavaScript", "React"]
+            "technologies": [
+                "TypeScript",
+                "JavaScript",
+                "React",
+                "Redux",
+                "Vitest"
+            ]
         },
         {
             "name": "Matt H",
@@ -67,23 +73,37 @@
         },
         {
             "name": "Nathan",
-            "role": "",
+            "role": "Software Developer",
             "github": "https://github.com/NathanHor22",
             "linkedin": "https://www.linkedin.com/in/nathan-hor-99a27a205/",
             "photo": "/assets/2025-09-tfs/profile_photos/nathan.png",
-            "description": "",
-            "portfolio_link": "",
-            "technologies": [""]
+            "description": "I'm a web developer with expertise in JavaScript, React, Tailwind and a game developer with expertise in Unreal Engine and Unity using C#, C++ and Blueprints.",
+            "portfolio_link": "https://nathanhor.com/",
+            "technologies": [
+                "JavaScript",
+                "React",
+                "Tailwind",
+                "Unity",
+                "Unreal Engine",
+                "C#",
+                "C++"
+            ]
         },
         {
             "name": "Ravind",
-            "role": "",
+            "role": "Frontend Developer",
             "github": "https://github.com/Ravindgowda",
             "linkedin": "https://linkedin.com/in/ravind-gowda-03232bb6",
             "photo": "/assets/2025-09-tfs/profile_photos/ravind.jpg",
-            "description": "",
+            "description": "I'm a technology professional with a background in IT Project Management. I’m passionate about combining my project management expertise, technical knowledge, and strategic thinking to create scalable, user-focused digital solutions.",
             "portfolio_link": "",
-            "technologies": [""]
+            "technologies": [
+                "JavaScript",
+                "React",
+                "Microsoft Azure",
+                "CSS",
+                "HTML"
+            ]
         },
         {
             "name": "Thabo",
