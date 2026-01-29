@@ -58,3 +58,40 @@
     filter: drop-shadow(5px 5px 5px #005c30);
     transform: scale(1.5);
 }
+
+.card--jo {
+    --card--jo-accent: rgb(180 151 238);
+    background: radial-gradient(
+        ellipse at left top,
+        hsl(from var(--card--jo-accent) calc(h + 10) calc(s - 10) calc(l - 3))
+            0%,
+        var(--card--jo-accent) 100%
+    );
+
+    .card__link-icon,
+    .card__icon {
+        fill: var(--color-white);
+        filter: drop-shadow(
+            1px 1px 0
+                hsla(
+                    from var(--card--jo-accent) h calc(s - 40) calc(l - 40) /
+                        60%
+                )
+        );
+    }
+
+    .card__name,
+    .card__role,
+    .card__link,
+    .card__description {
+        color: var(--color-white);
+        text-shadow: 1px 1px 0
+            hsla(from var(--card--jo-accent) h calc(s - 40) calc(l - 40) / 60%);
+    }
+}
+
+.tech--jo {
+    background-color: white;
+    color: var(--card--jo-accent);
+    text-shadow: 1px 1px 0 hsla(from var(--color-black) h s l / 10%);
+}

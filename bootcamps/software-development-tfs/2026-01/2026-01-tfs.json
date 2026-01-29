@@ -38,6 +38,22 @@
                 "Java",
                 "Python"
             ]
+        },
+        {
+            "name": "Jo",
+            "role": "Fullstack Software Engineer",
+            "github": "https://github.com/j0lol",
+            "linkedin": "https://www.linkedin.com/in/jo-null-burnett/",
+            "photo": "/assets/2026-01-tfs/profile_photos/jo.jpg",
+            "description": "Whether it's native code in Rust, or JavaScript and TypeScript in the browser, I like to follow standards and study documentation. I'm also passionate about graphics, specializing in WebGPU. I've spent a lot of time doing hobbyist projects (60+ repositories on GitHub!) dabbling in Java, Godot, PHP, Haskell and more.",
+            "portfolio_link": "https://j0.lol/projects",
+            "technologies": [
+                "Rust",
+                "JavaScript",
+                "TypeScript",
+                "PostgreSQL",
+                "SQLite"
+            ]
         }
     ]
 }
