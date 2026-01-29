@@ -19,3 +19,42 @@
 .tech--alex {
     background-color: #fbc516;
 }
+
+.card--finn {
+    background: linear-gradient(340deg, #2a7b9b 0%, #00ad48 100%);
+
+    .card__link-icon,
+    .card__icon {
+        fill: var(--color-white);
+    }
+
+    .card__name,
+    .card__role,
+    .card__link,
+    .card__description {
+        text-shadow: 2px 2px 2px #00463f;
+        color: var(--color-white);
+    }
+}
+
+.tech--finn {
+    color: #ffffff;
+    border-style: solid;
+    border-color: #26df86 #005c30 #005c30 #26df86;
+    background-color: #00a364;
+}
+
+.tech--finn:hover {
+    border-color: #005c30 #26df86 #26df86 #005c30;
+    background-color: #00623d;
+}
+
+.card--finn svg {
+    filter: drop-shadow(2px 2px 2px #005c30);
+    transition: 0.2s ease-in-out;
+}
+
+.card--finn svg:hover {
+    filter: drop-shadow(5px 5px 5px #005c30);
+    transform: scale(1.5);
+}

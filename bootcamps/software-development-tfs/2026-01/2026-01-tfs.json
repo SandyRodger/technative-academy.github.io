@@ -19,6 +19,25 @@
                 "Python",
                 "PostgreSQL"
             ]
+        },
+        {
+            "name": "Finn",
+            "role": "Web Developer",
+            "github": "https://github.com/0cr0wbar0",
+            "linkedin": "https://www.linkedin.com/in/finnian-holland/",
+            "photo": "/assets/2026-01-tfs/profile_photos/finn.png",
+            "description": "Full-stack web developer (TypeScript, JavaScript and PHP) with additional software dev experience in Python, Rust and Java. My final year project at uni was an interactive web app, written in PHP and JavaScript, that uses Docker to teach the syntactical basics of Rust (which you can try out at https://fyp.cr0wbar.dev). In light of the enjoyment I took from working on this project, I am looking for a junior position in frontend, backend or full-stack web development, where I may hone my skills and flex my web design muscles further.",
+            "portfolio_link": "https://cr0wbar.dev",
+            "technologies": [
+                "PHP",
+                "TypeScript",
+                "JavaScript",
+                "MySQL",
+                "SQLite",
+                "Rust",
+                "Java",
+                "Python"
+            ]
         }
     ]
 }
