@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "name": "Alex",
+            "role": "Software Developer",
+            "github": "https://github.com/alexmc2",
+            "linkedin": "https://www.linkedin.com/in/alex-mcgarry/",
+            "photo": "/assets/2026-01-tfs/profile_photos/alex.jpg",
+            "description": "Full-stack developer with a background in accountancy. Experienced with Next.js, TypeScript, Node.js, and PostgreSQL. I enjoy building secure, logic-heavy applications and have a strong interest in Linux environments and system architecture.",
+            "portfolio_link": "https://www.amcgarry.co.uk/",
+            "technologies": [
+                "React",
+                "Next.js",
+                "JavaScript",
+                "TypeScript",
+                "Tailwind CSS",
+                "Node.js",
+                "Express",
+                "Python",
+                "PostgreSQL"
+            ]
+        }
+    ]
+}
