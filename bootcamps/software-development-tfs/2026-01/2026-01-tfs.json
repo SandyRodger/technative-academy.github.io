@@ -54,6 +54,21 @@
                 "PostgreSQL",
                 "SQLite"
             ]
+        },
+        {
+            "name": "Ijem",
+            "role": "Technologist & Developer",
+            "github": "https://github.com/ij888",
+            "linkedin": "https://www.linkedin.com/in/ijemofili/",
+            "photo": "/assets/2026-01-tfs/profile_photos/ijem.png",
+            "description": "I’m a hands-on technologist who builds practical systems across software, electronics, and emerging infrastructure. My work combines full-stack development, experimental hardware, renewable power concepts, and identity technology — with a focus on resilience and real-world implementation.",
+            "portfolio_link": "https://github.com/ij888",
+            "technologies": [
+                "JavaScript",
+                "Neo4j",
+                "SQLite",
+                "Node-RED"
+            ]
         }
     ]
 }
