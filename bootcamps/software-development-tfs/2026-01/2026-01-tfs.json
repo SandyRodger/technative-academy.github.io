@@ -54,6 +54,22 @@
                 "PostgreSQL",
                 "SQLite"
             ]
+        },
+        {
+            "name": "Amro",
+            "role": "Software Developer",
+            "github": "https://github.com/amro-youssef",
+            "linkedin": "https://www.linkedin.com/in/amroyoussef/",
+            "photo": "/assets/2026-01-tfs/profile_photos/amro.jpg",
+            "description": "Software Engineer with a BSc in Computer Science and one year of software development experience. I have experience using React, JavaScript, TypeScript, Python and Java through academic, industry and personal projects. I'm looking for junior software development roles where I can develop my skills further and make a meaningful difference",
+            "portfolio_link": "https://github.com/amro-youssef",
+            "technologies": [
+                "JavaScript",
+                "React",
+                "Python",
+                "TypeScript",
+                "Java"
+            ]
         }
     ]
 }
