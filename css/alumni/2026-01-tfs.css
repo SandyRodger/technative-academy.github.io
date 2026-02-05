@@ -53,9 +53,13 @@
     filter: drop-shadow(2px 2px 2px #005c30);
     transition: 0.2s ease-in-out;
 }
-.card--amro {
-    /* background: linear-gradient(340deg, #2a7b9b 0%, #00ad48 100%); */
 
+.card--finn svg:hover {
+    filter: drop-shadow(5px 5px 5px #005c30);
+    transform: scale(1.5);
+}
+
+.card--amro {
     .card__link-icon,
     .card__icon {
         fill: var(--color-white);
@@ -65,17 +69,13 @@
     .card__role,
     .card__link {
         text-shadow: 3px 3px 3px #00463f;
-        /* color: var(--color-white); */
         color: #fff4e6;
     }
 
     .card__description {
-        /* padding: 25px 100px; */
-        /* width:80%; */
         margin: 10px;
         color: #1c2833;
         background: rgba(213, 216, 220, 0.75);
-        /* position: absolute; */
     }
 
     background-color: #16a085;
