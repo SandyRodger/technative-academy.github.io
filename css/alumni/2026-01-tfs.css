@@ -59,6 +59,118 @@
     transform: scale(1.5);
 }
 
+.card--amro {
+    .card__link-icon,
+    .card__icon {
+        fill: var(--color-white);
+    }
+
+    .card__name,
+    .card__role,
+    .card__link {
+        text-shadow: 3px 3px 3px #00463f;
+        color: #fff4e6;
+    }
+
+    .card__description {
+        margin: 10px;
+        color: #1c2833;
+        background: rgba(213, 216, 220, 0.75);
+    }
+
+    background-color: #16a085;
+    background-image:
+        linear-gradient(67.5deg, #16a085 10%, transparent 10%),
+        linear-gradient(157.5deg, #16a085 10%, transparent 10%),
+        linear-gradient(67.5deg, transparent 90%, #16a085 90%),
+        linear-gradient(157.5deg, transparent 90%, #16a085 90%),
+        linear-gradient(22.5deg, #16a085 10%, transparent 10%),
+        linear-gradient(112.5deg, #16a085 10%, transparent 10%),
+        linear-gradient(22.5deg, transparent 90%, #16a085 90%),
+        linear-gradient(112.5deg, transparent 90%, #16a085 90%),
+        linear-gradient(
+            22.5deg,
+            transparent 33%,
+            #d5d8dc 33%,
+            #d5d8dc 36%,
+            transparent 36%,
+            transparent 64%,
+            #d5d8dc 64%,
+            #d5d8dc 67%,
+            transparent 67%
+        ),
+        linear-gradient(
+            -22.5deg,
+            transparent 33%,
+            #d5d8dc 33%,
+            #d5d8dc 36%,
+            transparent 36%,
+            transparent 64%,
+            #d5d8dc 64%,
+            #d5d8dc 67%,
+            transparent 67%
+        ),
+        linear-gradient(
+            112.5deg,
+            transparent 33%,
+            #d5d8dc 33%,
+            #d5d8dc 36%,
+            transparent 36%,
+            transparent 64%,
+            #d5d8dc 64%,
+            #d5d8dc 67%,
+            transparent 67%
+        ),
+        linear-gradient(
+            -112.5deg,
+            transparent 33%,
+            #d5d8dc 33%,
+            #d5d8dc 36%,
+            transparent 36%,
+            transparent 64%,
+            #d5d8dc 64%,
+            #d5d8dc 67%,
+            transparent 67%
+        );
+    background-size: 250px 250px;
+    background-position:
+        -100px 150px,
+        -150px 150px,
+        -150px 100px,
+        -100px 100px,
+        -150px 100px,
+        -100px 100px,
+        -100px 150px,
+        -150px 150px,
+        0 0,
+        0 0,
+        0 0,
+        0 0;
+}
+
+.tech--amro {
+    color: #ffffff;
+    border-style: solid;
+    border-color: #26df86 #005c30 #005c30 #26df86;
+    background-color: #00a364;
+}
+
+.tech--amro:hover {
+    border-color: #000e5cff;
+    background-color: #e6dc1bff;
+    color: black;
+}
+
+.card--amro svg {
+    filter: drop-shadow(2px 2px 2px #005c30);
+    transition: 0.2s ease-in-out;
+}
+
+.card--amro svg:hover {
+    filter: drop-shadow(5px 5px 5px #005c30);
+    transform: scale(1.5);
+}
+
 .card--jo {
     --card--jo-accent: rgb(180 151 238);
     background: radial-gradient(
