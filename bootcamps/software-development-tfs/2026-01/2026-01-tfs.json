@@ -5,8 +5,8 @@
             "role": "Software Developer",
             "github": "https://github.com/alexmc2",
             "linkedin": "https://www.linkedin.com/in/alex-mcgarry/",
-            "photo": "/assets/2026-01-tfs/profile_photos/alex.jpg",
-            "description": "Full-stack developer with a background in accountancy. Experienced with Next.js, TypeScript, Node.js, and PostgreSQL. I enjoy building secure, logic-heavy applications and have a strong interest in Linux environments and system architecture.",
+            "photo": "/assets/2026-01-tfs/profile_photos/alex.webp",
+            "description": "I build full-stack web applications with JavaScript/TypeScript, React/Next.js, Node/Express, and PostgreSQL/Supabase. I’m comfortable working in Linux-based environments and often use Python and Bash for scripting and automation. I enjoy all aspects of the development process from data modelling and APIs through to UI design in Figma. With a previous background in accountancy, I am naturally analytical, detail-oriented, and enjoy problem-solving.",
             "portfolio_link": "https://www.amcgarry.co.uk/",
             "technologies": [
                 "React",
@@ -69,6 +69,19 @@
                 "Python",
                 "TypeScript",
                 "Java"
+        },
+            "name": "Ijem",
+            "role": "Technologist & Developer",
+            "github": "https://github.com/ij888",
+            "linkedin": "https://www.linkedin.com/in/ijemofili/",
+            "photo": "/assets/2026-01-tfs/profile_photos/ijem.png",
+            "description": "I’m a hands-on technologist who builds practical systems across software, electronics, and emerging infrastructure. My work combines full-stack development, experimental hardware, renewable power concepts, and identity technology — with a focus on resilience and real-world implementation.",
+            "portfolio_link": "https://github.com/ij888",
+            "technologies": [
+                "JavaScript",
+                "Neo4j",
+                "SQLite",
+                "Node-RED"
             ]
         }
     ]
