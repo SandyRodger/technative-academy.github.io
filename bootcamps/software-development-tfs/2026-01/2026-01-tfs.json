@@ -79,11 +79,24 @@
             "photo": "/assets/2026-01-tfs/profile_photos/ijem.png",
             "description": "I’m a hands-on technologist who builds practical systems across software, electronics, and emerging infrastructure. My work combines full-stack development, experimental hardware, renewable power concepts, and identity technology — with a focus on resilience and real-world implementation.",
             "portfolio_link": "https://github.com/ij888",
+            "technologies": ["JavaScript", "Neo4j", "SQLite", "Node-RED"]
+        },
+        {
+            "name": "Abdu",
+            "role": "Data Analytics Engineer and Full-stack Software Developer",
+            "github": "https://github.com/HandharJunino",
+            "linkedin": "https://www.linkedin.com/in/handhwarah-abdu-muhumuza-0340321b9/",
+            "photo": "/assets/2026-01-tfs/profile_photos/abdu.jpg",
+            "description": "Data Analytics Engineer & Full-Stack Software Developer with hands-on experience in Python, R, PostgreSQL, and Flutter. I’ve led full-stack projects using tools like Flutter, Django and Firebase, and built data pipelines and warehouses with Azure Data Studio, PSQL and Python, applying ETL workflows to real-world datasets. I focus on solving problems, delivering practical solutions, and collaborating effectively in teams.",
+            "portfolio_link": "https://github.com/HandharJunino",
             "technologies": [
-                "JavaScript",
-                "Neo4j",
-                "SQLite",
-                "Node-RED"
+                "Python",
+                "Flutter",
+                "Dart",
+                "PostgreSQL",
+                "R",
+                "Firebase",
+                "JavaScript"
             ]
         }
     ]
