@@ -148,6 +148,22 @@
         0 0;
 }
 
+.card--ql {
+    background: linear-gradient(135deg, #3c6d78 0%, #183d5c 100%);
+
+    .card__link-icon,
+    .card__icon {
+        fill: var(--color-white);
+    }
+
+    .card__name,
+    .card__role,
+    .card__link,
+    .card__description {
+        color: var(--color-white);
+    }
+}
+
 .tech--amro {
     color: #ffffff;
     border-style: solid;
@@ -288,4 +304,8 @@
 
 .tech--kristy {
     background-color: #b1ebc0;
+}
+
+.tech--ql {
+    background-color: #fbc516;
 }
