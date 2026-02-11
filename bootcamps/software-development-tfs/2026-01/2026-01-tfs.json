@@ -98,6 +98,16 @@
                 "Firebase",
                 "JavaScript"
             ]
+        },
+        {
+            "name": "Kristy",
+            "role": "Front-End Software Developer",
+            "github": "https://github.com/KristalTips",
+            "linkedin": "https://linkedin.com/in/kristy-savery",
+            "photo": "/assets/2026-01-tfs/profile_photos/kristy.webp",
+            "description": "Front-end software developer with experience building projects utilising JavaScript and React. I also have recently been learning Python alongside my data annotation work with AI but come from a background working in business analysis and audit. I hold a PGCE in English Language Teaching to Adults as well as a BSc (Hons) in Psychology where my interests lie in information processing and learning in humans and AI.",
+            "portfolio_link": "https://github.com/KristalTips",
+            "technologies": ["React", "JavaScript", "Python"]
         }
     ]
 }
