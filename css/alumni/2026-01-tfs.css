@@ -281,3 +281,11 @@
     color: #a78bfa;
     background-color: var(--color-black);
 }
+/* Kristy card styling */
+.card--kristy {
+    background: linear-gradient(135deg, #ebb1dc, #f6d3ec);
+}
+
+.tech--kristy {
+    background-color: #b1ebc0;
+}
