@@ -128,6 +128,19 @@
                 "Data Analytics",
                 "Machine Learning"
             ]
+        },
+        {
+            "name": "Sandy",
+            "role": "Software Developer",
+            "github": "https://github.com/SandyRodger",
+            "linkedin": "https://www.linkedin.com/in/alexander-rodger-742a4b141",
+            "photo": "/assets/2026-01-tfs/profile_photos/ql.jpg",
+            "description": ".",
+            "portfolio_link": "",
+            "technologies": [
+                "HTML/CSS",
+                "JavaScript",
+            ]
         }
     ]
 }
